@@ -1,0 +1,18 @@
+:root {
+    --colorPrimary: hsl(0, 36%, 70%);
+    --colorSecundary: hsl(0, 93%, 68%);
+
+    /******
+    NEUTRAL
+    ******/
+
+    --colorNeutral: hsl(0, 6%, 24%);
+
+    /********
+    GRADIENTS
+    ********/
+
+    --colorGradient1: from hsl(0, 0%, 100%), to hsl(0, 100%, 98%); 
+    --colorGradient2: from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
+
+}
