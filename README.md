@@ -1,7 +1,7 @@
 # Frontend Mentor | Base Apparel coming soon page
 Desafio https://www.frontendmentor.io/
 <br>
-Link para acesso:
+Link para acesso:https://apparelpage.netlify.app
 <br>
 # Captura de tela desktop:![Captura de tela de 2022-01-03 22-15-22](https://user-images.githubusercontent.com/91329679/147997414-a1812450-e489-459a-905f-589b658cc729.png)
 <br><br>
